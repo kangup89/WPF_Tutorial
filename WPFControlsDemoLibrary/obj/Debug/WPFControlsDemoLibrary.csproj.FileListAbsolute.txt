@@ -1,0 +1,6 @@
+D:\workspace\Visual Studio\WPF_Tutorial\WPFControlsDemoLibrary\bin\Debug\WPFControlsDemoLibrary.dll
+D:\workspace\Visual Studio\WPF_Tutorial\WPFControlsDemoLibrary\bin\Debug\WPFControlsDemoLibrary.pdb
+D:\workspace\Visual Studio\WPF_Tutorial\WPFControlsDemoLibrary\obj\Debug\WPFControlsDemoLibrary.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\WPF_Tutorial\WPFControlsDemoLibrary\obj\Debug\WPFControlsDemoLibrary.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\WPF_Tutorial\WPFControlsDemoLibrary\obj\Debug\WPFControlsDemoLibrary.dll
+D:\workspace\Visual Studio\WPF_Tutorial\WPFControlsDemoLibrary\obj\Debug\WPFControlsDemoLibrary.pdb
